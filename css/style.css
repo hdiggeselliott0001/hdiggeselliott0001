@@ -7,6 +7,11 @@
     text-align: center;
 }
 
+#img {
+height: auto;
+width: 100%;
+}
+
 #imageCaption {
     color: #FFFFFF;
     background-color: #003366;
