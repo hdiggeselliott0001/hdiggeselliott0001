@@ -1,1 +1,6 @@
-# Empty CSS file for your own CSS
+img_center {   
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 200px;   
+}
