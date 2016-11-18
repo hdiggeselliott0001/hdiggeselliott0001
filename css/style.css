@@ -5,7 +5,11 @@
 #pageheader {
     color: #003366;
     text-align: center;
-    margin: 20px 10px 20px 10px;
+}
+
+#imageCaption {
+    color: #000000;
+    background-color: #003366;
 }
 
 #p {
