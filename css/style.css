@@ -7,14 +7,6 @@
     text-align: center;
 }
 
-#imageThumb {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) 
-}
-
 #imageCaption {
     color: #FFFFFF;
     background-color: #003366;
