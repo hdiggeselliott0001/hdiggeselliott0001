@@ -1,14 +1,18 @@
 #title {
-  color= 00336;
+  color: 00336;
   padding-top: 100px;
   width:600px;
   margin: auto;
 }
 
 #address {
-  text-align= right;  
+  text-align: right;  
 }
 
 #authenticate {
   padding-top: 50px;
+}
+
+#caption {
+  background-color: d3d3d3; 
 }
