@@ -1,9 +1,10 @@
 #title {
-  color="#00336";
-  width:300px;
+  color= 00336;
+  padding-top: 100px;
+  width:600px;
   margin: auto;
 }
 
 #address {
-  text-align="right";  
+  text-align= right;  
 }
