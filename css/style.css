@@ -1,7 +1,8 @@
 #title {
   text-align="center";
   color="#00336";
-  margin="100px 0px 100px 0px";
+  width:300px;
+  margin: auto;
 }
 
 #address {
